@@ -1,0 +1,8 @@
+name = Devel Shortcuts
+description = Shortcut Links for developers.
+package = Development
+core = 7.x
+configure = admin/config/development/devel_shortcuts
+tags[] = developer
+files[] = devel.pages.inc
+
